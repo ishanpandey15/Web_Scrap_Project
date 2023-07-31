@@ -5386,3 +5386,311 @@ INFO:root:log my final result []
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "POST /review HTTP/1.1" 200 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.28:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-350-189
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 14:46:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 14:46:23] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 14:46:23] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 14:46:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-350-189
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-350-189
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-350-189
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-350-189
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-350-189
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-350-189
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-350-189
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-350-189
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-350-189
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-350-189
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-350-189
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-350-189
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-350-189
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-350-189
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-350-189
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-350-189
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-350-189
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-350-189
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone1', 'Name': 'Gautam Aggarwal', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': "Fantastic product even though it's just an iterative upgrade to iphone 13 pro. The deep purple looks purple when the light hits the phone a certain way and it's beautiful. Dynamic island is very practical and useful. Hopefully it will get better when 3rd party developers start making use of it.Flipkart's delivery was quick and hassle free. The order was delivered on the launch date and was packed well."}, {'Product': 'iphone1', 'Name': 'Neelendra  Singh', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Worth the Money✨Brilliant life batteryThe wallpaper and customisation updates are awesomeThe camera clicks a very clear picEkart made a super fast delivery👍Thanks Ekart!'}, {'Product': 'iphone1', 'Name': 'Sarvesh Saxena', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Upgraded from iPhone 11 pro to iPhone 14 pro, awesome phone camera, Display quality good very fast delivery.⭐️⭐️⭐️⭐️⭐️'}, {'Product': 'iphone1', 'Name': 'Karthik Kommoju', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'iPhone 14 pro is definitely a premium device with exceptional camera and solid build quality with excellent design. The phone definitely weighs more compared to regular 13 and 14. The dynamic island is useful in many cases and some apps are making use of this feature really well with great animations especially swiggy. Loved the in hand feel of the mobile. Compact in size and easy to use with one hand'}, {'Product': 'iphone1', 'Name': 'Salman khan', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Just WOW!! Best in all segment!!'}, {'Product': 'iphone1', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'CAMERA IS SUPERB'}, {'Product': 'iphone1', 'Name': 'Debasish Rout', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': "Upgraded from XR to 14 pro, amazing phone with advanced features limited to just pro models, stock availability is too low. Got mine by luck!If youre upgrading from iPhone 11 /11 pro  and below you'll love the update"}, {'Product': 'iphone1', 'Name': 'Abhishek  Yadav', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'More than expected! Battery backup has exceptionally increased ⚡️Absolutely over priced but worth it🔥'}, {'Product': 'iphone1', 'Name': 'Vaibhav Agrawal', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Great and real product. Absolutely trustworthy seller with the best price drop available in the market.'}, {'Product': 'iphone1', 'Name': 'shringin ambli', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Super phone. Best price when I bought. Super experience with amazing camera.'}, {'Product': 'iphone1', 'Name': 'shringin ambli', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Super phone. Best price when I bought. Super experience with amazing camera.'}]
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 14:54:59] "POST /review HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Amazing phone with great cameras and better battery which gives you the best performance. I just love the camera .'}, {'Product': 'iphone11', 'Name': 'George Haokip', 'Rating': '4', 'CommentHead': 'Value-for-money', 'Comment': "I'm Really happy with the productDelivery was fast as well..it was a gift for my sister and she loved it so much."}, {'Product': 'iphone11', 'Name': 'vijay hegde', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': 'I was using Iphone 6s and also Oneplus 6t. Both mobiles were perfectly alright in Photos, gaming, and smooth interface . My 6s mobile getting battery issue. thought upgrade to 11. Really like this mobile of its Internal storage (compare to 6s) , camera and its touch feeling. Its a worth buying mobile for me.'}, {'Product': 'iphone11', 'Name': 'Chirag Rajput', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Value for money5 star rating Excellent cameraBattery backup full day in single charge.Tougher and water resistant design, glossy back.The screen has excellent brightness and contrast.Apple A13 Bionic is the fastest smartphone chip on the planet.Excellent battery life, fast charging support.Stereo speakers with great quality.'}, {'Product': 'iphone11', 'Name': 'Vishal Dubey', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'What a camera .....just awesome ..you can feel this iPhone just awesome . Good for gaming also ...try pubg in hd it’s just wow'}, {'Product': 'iphone11', 'Name': 'Rahul Verma', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Amazing Powerful and Durable Gadget.I’m am very happy with the camera picture quality, Amazing face id unlocked in dark room, Strong battery with perfect screen size as you can carry easily in pocket. This is my third iPhone. I shifted from android Samsung Note series to iPhone because of the strong build quality and peace of mind for next 3-4 years.Don’t think to much just go for it and I suggest you to go for minimum 128gb variant or more 256gb. I’ve attached my puppy pics and no fi...'}, {'Product': 'iphone11', 'Name': 'Naveen Boopathi', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'This is my first iOS phone. I am very happy with this product. Very much satisfied with this. I love this phone.'}, {'Product': 'iphone11', 'Name': 'Soham Kalangutkar', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Best and amazing product.....phone looks so premium.... battary is also good as expected .... Wide angle camera is so addictive ...if you are a IOS lover....then this phone will be the best choice for you all!!💯🔥'}, {'Product': 'iphone11', 'Name': 'tushar srivastava', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'It’s a must buy who is looking for an upgrade from previous generation of iPhones. If you are using XR then still you can hold on for sometime and upgrade to 2020 model else this phone is a must buy . Camera quality is amazing and wide angle is something to count upon. Performance wise it’s amazing and feels premium while holding in hand. So a big YES for this device. Go for 128 GB variant as the 4K videos will occupy lots of space and the storage can get over very quickly. Try to buy it with...'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'i11 is worthy to buy, too much happy with the product. Thank u flipkart I received the item on time..loved it..'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'i11 is worthy to buy, too much happy with the product. Thank u flipkart I received the item on time..loved it..'}]
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 14:55:00] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 14:55:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 14:55:00] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone12pro', 'Name': 'Vinit Kar', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'I have been using iPhones for years, but the fast charging and battery on this one is brilliant. Like i always say, iPhone is more of a jewellery than a phone. But this one has some power-packed features and an awesome camera. So if you can afford it, buy it!'}, {'Product': 'iphone12pro', 'Name': 'Rahul  Meena', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I like the most in this phone:-1. I like the size of this phone because it is easy to hold.2. The camera quality of this phone is admirable. 3. Battery backup is good.4. The new design and colour  of this phone also a plus point of its beauty.5. These  points are my personal which i like most in this phone.'}, {'Product': 'iphone12pro', 'Name': 'Nami Hathishah', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'One of the best looking phone in the market right now with a decent performance jump from 11 pro. Camera is excellent and the display is quite responsive and sharp. Only issue is it does not have a higher refresh rate and the battery life is average.'}, {'Product': 'iphone12pro', 'Name': 'Rajesh Jena', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'I have upgraded from Android to iOS for the first time with the IPhone 12 Pro. And the experience is very much satisfactory. The new A14 bionic processor is very fast. The boxy design is what I liked the most. The camera and display are top notch. Night mode photography is excellent. Worth upgrading from Android to iOS .'}, {'Product': 'iphone12pro', 'Name': 'Lee Phela', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Awesome!Just made an upgrade from X, worth every single penny spent on it, the camera is just too superb, be it the selfie cam or the main rear cam, the goodness it takes the picture is just beyond words, no smart phone can beat it atm! However, the battery life tends to be on the shorter side, that’s the only con that I can’t think up of now,'}, {'Product': 'iphone12pro', 'Name': 'Kirti Yadav', 'Rating': '3', 'CommentHead': 'Nice', 'Comment': 'Its just Perfect . Prices are a bit high .'}, {'Product': 'iphone12pro', 'Name': 'Rajkumar tiwari', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'indeed a great phone feels premium in hand but battery life is low'}, {'Product': 'iphone12pro', 'Name': 'Tushar Saini', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'The camera is mind-blowing I love it 😘'}, {'Product': 'iphone12pro', 'Name': 'Aasheesh Vats', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'A masterpiece to cherish.'}, {'Product': 'iphone12pro', 'Name': 'Pankaj Mahor', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Best designed iPhone'}, {'Product': 'iphone12pro', 'Name': 'Pankaj Mahor', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Best designed iPhone'}]
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 14:55:26] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 14:55:27] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 14:55:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-350-189
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-350-189
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.25:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 296-215-208
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 15:42:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 15:42:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 15:42:22] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'samsungs22ultra', 'Name': 'amit  tungenwar ', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'indian unit,great 📷  ,great  display'}, {'Product': 'samsungs22ultra', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Glad that i purchased it from flipkart. in love with the phone😍😍'}, {'Product': 'samsungs22ultra', 'Name': 'Dr.Sanchari Bhattacharyya ', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'excellent phone with all superb features'}, {'Product': 'samsungs22ultra', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Very nice'}, {'Product': 'samsungs22ultra', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': "It's really good."}, {'Product': 'samsungs22ultra', 'Name': 'Achu Hari', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Excellent'}, {'Product': 'samsungs22ultra', 'Name': 'hirak ghosh', 'Rating': '2', 'CommentHead': 'Slightly disappointed', 'Comment': 'There is always call drop and network issue'}, {'Product': 'samsungs22ultra', 'Name': 'Girisha Hegade', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Great phone. Premium product with niche featurs... Worth the price tag... Camera Superb. You can get awesome night photos.'}, {'Product': 'samsungs22ultra', 'Name': 'Megha Ps', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'wow wow❤️'}, {'Product': 'samsungs22ultra', 'Name': 'Ashfaq Mulla', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': "It's just an a amazing phone"}, {'Product': 'samsungs22ultra', 'Name': 'Ashfaq Mulla', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "It's just an a amazing phone"}]
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 15:42:34] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 15:42:34] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 15:42:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.25:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 296-215-208
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 16:05:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 16:05:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 16:05:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone12pro', 'Name': 'Vinit Kar', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'I have been using iPhones for years, but the fast charging and battery on this one is brilliant. Like i always say, iPhone is more of a jewellery than a phone. But this one has some power-packed features and an awesome camera. So if you can afford it, buy it!'}, {'Product': 'iphone12pro', 'Name': 'Rahul  Meena', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I like the most in this phone:-1. I like the size of this phone because it is easy to hold.2. The camera quality of this phone is admirable. 3. Battery backup is good.4. The new design and colour  of this phone also a plus point of its beauty.5. These  points are my personal which i like most in this phone.'}, {'Product': 'iphone12pro', 'Name': 'Nami Hathishah', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'One of the best looking phone in the market right now with a decent performance jump from 11 pro. Camera is excellent and the display is quite responsive and sharp. Only issue is it does not have a higher refresh rate and the battery life is average.'}, {'Product': 'iphone12pro', 'Name': 'Rajesh Jena', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'I have upgraded from Android to iOS for the first time with the IPhone 12 Pro. And the experience is very much satisfactory. The new A14 bionic processor is very fast. The boxy design is what I liked the most. The camera and display are top notch. Night mode photography is excellent. Worth upgrading from Android to iOS .'}, {'Product': 'iphone12pro', 'Name': 'Lee Phela', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Awesome!Just made an upgrade from X, worth every single penny spent on it, the camera is just too superb, be it the selfie cam or the main rear cam, the goodness it takes the picture is just beyond words, no smart phone can beat it atm! However, the battery life tends to be on the shorter side, that’s the only con that I can’t think up of now,'}, {'Product': 'iphone12pro', 'Name': 'Kirti Yadav', 'Rating': '3', 'CommentHead': 'Nice', 'Comment': 'Its just Perfect . Prices are a bit high .'}, {'Product': 'iphone12pro', 'Name': 'Rajkumar tiwari', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'indeed a great phone feels premium in hand but battery life is low'}, {'Product': 'iphone12pro', 'Name': 'Tushar Saini', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'The camera is mind-blowing I love it 😘'}, {'Product': 'iphone12pro', 'Name': 'Aasheesh Vats', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'A masterpiece to cherish.'}, {'Product': 'iphone12pro', 'Name': 'Pankaj Mahor', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Best designed iPhone'}, {'Product': 'iphone12pro', 'Name': 'Pankaj Mahor', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Best designed iPhone'}]
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 16:05:24] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 16:05:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 16:05:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 16:05:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 16:05:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 16:05:33] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 16:05:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 16:05:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 16:05:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 16:05:33] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 16:05:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 16:05:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 16:05:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Amazing phone with great cameras and better battery which gives you the best performance. I just love the camera .'}, {'Product': 'iphone11', 'Name': 'George Haokip', 'Rating': '4', 'CommentHead': 'Value-for-money', 'Comment': "I'm Really happy with the productDelivery was fast as well..it was a gift for my sister and she loved it so much."}, {'Product': 'iphone11', 'Name': 'vijay hegde', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': 'I was using Iphone 6s and also Oneplus 6t. Both mobiles were perfectly alright in Photos, gaming, and smooth interface . My 6s mobile getting battery issue. thought upgrade to 11. Really like this mobile of its Internal storage (compare to 6s) , camera and its touch feeling. Its a worth buying mobile for me.'}, {'Product': 'iphone11', 'Name': 'Chirag Rajput', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Value for money5 star rating Excellent cameraBattery backup full day in single charge.Tougher and water resistant design, glossy back.The screen has excellent brightness and contrast.Apple A13 Bionic is the fastest smartphone chip on the planet.Excellent battery life, fast charging support.Stereo speakers with great quality.'}, {'Product': 'iphone11', 'Name': 'Vishal Dubey', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'What a camera .....just awesome ..you can feel this iPhone just awesome . Good for gaming also ...try pubg in hd it’s just wow'}, {'Product': 'iphone11', 'Name': 'Rahul Verma', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Amazing Powerful and Durable Gadget.I’m am very happy with the camera picture quality, Amazing face id unlocked in dark room, Strong battery with perfect screen size as you can carry easily in pocket. This is my third iPhone. I shifted from android Samsung Note series to iPhone because of the strong build quality and peace of mind for next 3-4 years.Don’t think to much just go for it and I suggest you to go for minimum 128gb variant or more 256gb. I’ve attached my puppy pics and no fi...'}, {'Product': 'iphone11', 'Name': 'Naveen Boopathi', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'This is my first iOS phone. I am very happy with this product. Very much satisfied with this. I love this phone.'}, {'Product': 'iphone11', 'Name': 'Soham Kalangutkar', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Best and amazing product.....phone looks so premium.... battary is also good as expected .... Wide angle camera is so addictive ...if you are a IOS lover....then this phone will be the best choice for you all!!💯🔥'}, {'Product': 'iphone11', 'Name': 'tushar srivastava', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'It’s a must buy who is looking for an upgrade from previous generation of iPhones. If you are using XR then still you can hold on for sometime and upgrade to 2020 model else this phone is a must buy . Camera quality is amazing and wide angle is something to count upon. Performance wise it’s amazing and feels premium while holding in hand. So a big YES for this device. Go for 128 GB variant as the 4K videos will occupy lots of space and the storage can get over very quickly. Try to buy it with...'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'i11 is worthy to buy, too much happy with the product. Thank u flipkart I received the item on time..loved it..'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'i11 is worthy to buy, too much happy with the product. Thank u flipkart I received the item on time..loved it..'}]
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 16:05:40] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 16:05:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 16:05:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 16:05:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone12pro', 'Name': 'Vinit Kar', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'I have been using iPhones for years, but the fast charging and battery on this one is brilliant. Like i always say, iPhone is more of a jewellery than a phone. But this one has some power-packed features and an awesome camera. So if you can afford it, buy it!'}, {'Product': 'iphone12pro', 'Name': 'Rahul  Meena', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I like the most in this phone:-1. I like the size of this phone because it is easy to hold.2. The camera quality of this phone is admirable. 3. Battery backup is good.4. The new design and colour  of this phone also a plus point of its beauty.5. These  points are my personal which i like most in this phone.'}, {'Product': 'iphone12pro', 'Name': 'Nami Hathishah', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'One of the best looking phone in the market right now with a decent performance jump from 11 pro. Camera is excellent and the display is quite responsive and sharp. Only issue is it does not have a higher refresh rate and the battery life is average.'}, {'Product': 'iphone12pro', 'Name': 'Rajesh Jena', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'I have upgraded from Android to iOS for the first time with the IPhone 12 Pro. And the experience is very much satisfactory. The new A14 bionic processor is very fast. The boxy design is what I liked the most. The camera and display are top notch. Night mode photography is excellent. Worth upgrading from Android to iOS .'}, {'Product': 'iphone12pro', 'Name': 'Lee Phela', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Awesome!Just made an upgrade from X, worth every single penny spent on it, the camera is just too superb, be it the selfie cam or the main rear cam, the goodness it takes the picture is just beyond words, no smart phone can beat it atm! However, the battery life tends to be on the shorter side, that’s the only con that I can’t think up of now,'}, {'Product': 'iphone12pro', 'Name': 'Kirti Yadav', 'Rating': '3', 'CommentHead': 'Nice', 'Comment': 'Its just Perfect . Prices are a bit high .'}, {'Product': 'iphone12pro', 'Name': 'Rajkumar tiwari', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'indeed a great phone feels premium in hand but battery life is low'}, {'Product': 'iphone12pro', 'Name': 'Tushar Saini', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'The camera is mind-blowing I love it 😘'}, {'Product': 'iphone12pro', 'Name': 'Aasheesh Vats', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'A masterpiece to cherish.'}, {'Product': 'iphone12pro', 'Name': 'Pankaj Mahor', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Best designed iPhone'}, {'Product': 'iphone12pro', 'Name': 'Pankaj Mahor', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Best designed iPhone'}]
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [07/Jul/2023 16:05:54] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.20:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-477-905
+INFO:werkzeug:172.18.0.2 - - [08/Jul/2023 16:00:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [08/Jul/2023 16:00:32] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [08/Jul/2023 16:00:32] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [08/Jul/2023 16:00:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone12pro', 'Name': 'Vinit Kar', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'I have been using iPhones for years, but the fast charging and battery on this one is brilliant. Like i always say, iPhone is more of a jewellery than a phone. But this one has some power-packed features and an awesome camera. So if you can afford it, buy it!'}, {'Product': 'iphone12pro', 'Name': 'Rahul  Meena', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I like the most in this phone:-1. I like the size of this phone because it is easy to hold.2. The camera quality of this phone is admirable. 3. Battery backup is good.4. The new design and colour  of this phone also a plus point of its beauty.5. These  points are my personal which i like most in this phone.'}, {'Product': 'iphone12pro', 'Name': 'Nami Hathishah', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'One of the best looking phone in the market right now with a decent performance jump from 11 pro. Camera is excellent and the display is quite responsive and sharp. Only issue is it does not have a higher refresh rate and the battery life is average.'}, {'Product': 'iphone12pro', 'Name': 'Rajesh Jena', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'I have upgraded from Android to iOS for the first time with the IPhone 12 Pro. And the experience is very much satisfactory. The new A14 bionic processor is very fast. The boxy design is what I liked the most. The camera and display are top notch. Night mode photography is excellent. Worth upgrading from Android to iOS .'}, {'Product': 'iphone12pro', 'Name': 'Lee Phela', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Awesome!Just made an upgrade from X, worth every single penny spent on it, the camera is just too superb, be it the selfie cam or the main rear cam, the goodness it takes the picture is just beyond words, no smart phone can beat it atm! However, the battery life tends to be on the shorter side, that’s the only con that I can’t think up of now,'}, {'Product': 'iphone12pro', 'Name': 'Kirti Yadav', 'Rating': '3', 'CommentHead': 'Nice', 'Comment': 'Its just Perfect . Prices are a bit high .'}, {'Product': 'iphone12pro', 'Name': 'Rajkumar tiwari', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'indeed a great phone feels premium in hand but battery life is low'}, {'Product': 'iphone12pro', 'Name': 'Tushar Saini', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'The camera is mind-blowing I love it 😘'}, {'Product': 'iphone12pro', 'Name': 'Aasheesh Vats', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'A masterpiece to cherish.'}, {'Product': 'iphone12pro', 'Name': 'Pankaj Mahor', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Best designed iPhone'}, {'Product': 'iphone12pro', 'Name': 'Pankaj Mahor', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Best designed iPhone'}]
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [08/Jul/2023 16:00:38] "POST /review HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone12pro', 'Name': 'Vinit Kar', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'I have been using iPhones for years, but the fast charging and battery on this one is brilliant. Like i always say, iPhone is more of a jewellery than a phone. But this one has some power-packed features and an awesome camera. So if you can afford it, buy it!'}, {'Product': 'iphone12pro', 'Name': 'Rahul  Meena', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I like the most in this phone:-1. I like the size of this phone because it is easy to hold.2. The camera quality of this phone is admirable. 3. Battery backup is good.4. The new design and colour  of this phone also a plus point of its beauty.5. These  points are my personal which i like most in this phone.'}, {'Product': 'iphone12pro', 'Name': 'Nami Hathishah', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'One of the best looking phone in the market right now with a decent performance jump from 11 pro. Camera is excellent and the display is quite responsive and sharp. Only issue is it does not have a higher refresh rate and the battery life is average.'}, {'Product': 'iphone12pro', 'Name': 'Rajesh Jena', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'I have upgraded from Android to iOS for the first time with the IPhone 12 Pro. And the experience is very much satisfactory. The new A14 bionic processor is very fast. The boxy design is what I liked the most. The camera and display are top notch. Night mode photography is excellent. Worth upgrading from Android to iOS .'}, {'Product': 'iphone12pro', 'Name': 'Lee Phela', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Awesome!Just made an upgrade from X, worth every single penny spent on it, the camera is just too superb, be it the selfie cam or the main rear cam, the goodness it takes the picture is just beyond words, no smart phone can beat it atm! However, the battery life tends to be on the shorter side, that’s the only con that I can’t think up of now,'}, {'Product': 'iphone12pro', 'Name': 'Kirti Yadav', 'Rating': '3', 'CommentHead': 'Nice', 'Comment': 'Its just Perfect . Prices are a bit high .'}, {'Product': 'iphone12pro', 'Name': 'Rajkumar tiwari', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'indeed a great phone feels premium in hand but battery life is low'}, {'Product': 'iphone12pro', 'Name': 'Tushar Saini', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'The camera is mind-blowing I love it 😘'}, {'Product': 'iphone12pro', 'Name': 'Aasheesh Vats', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'A masterpiece to cherish.'}, {'Product': 'iphone12pro', 'Name': 'Pankaj Mahor', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Best designed iPhone'}, {'Product': 'iphone12pro', 'Name': 'Pankaj Mahor', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Best designed iPhone'}]
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [08/Jul/2023 16:02:50] "POST /review HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone12pro', 'Name': 'Vinit Kar', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'I have been using iPhones for years, but the fast charging and battery on this one is brilliant. Like i always say, iPhone is more of a jewellery than a phone. But this one has some power-packed features and an awesome camera. So if you can afford it, buy it!'}, {'Product': 'iphone12pro', 'Name': 'Rahul  Meena', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I like the most in this phone:-1. I like the size of this phone because it is easy to hold.2. The camera quality of this phone is admirable. 3. Battery backup is good.4. The new design and colour  of this phone also a plus point of its beauty.5. These  points are my personal which i like most in this phone.'}, {'Product': 'iphone12pro', 'Name': 'Nami Hathishah', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'One of the best looking phone in the market right now with a decent performance jump from 11 pro. Camera is excellent and the display is quite responsive and sharp. Only issue is it does not have a higher refresh rate and the battery life is average.'}, {'Product': 'iphone12pro', 'Name': 'Rajesh Jena', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'I have upgraded from Android to iOS for the first time with the IPhone 12 Pro. And the experience is very much satisfactory. The new A14 bionic processor is very fast. The boxy design is what I liked the most. The camera and display are top notch. Night mode photography is excellent. Worth upgrading from Android to iOS .'}, {'Product': 'iphone12pro', 'Name': 'Lee Phela', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Awesome!Just made an upgrade from X, worth every single penny spent on it, the camera is just too superb, be it the selfie cam or the main rear cam, the goodness it takes the picture is just beyond words, no smart phone can beat it atm! However, the battery life tends to be on the shorter side, that’s the only con that I can’t think up of now,'}, {'Product': 'iphone12pro', 'Name': 'Kirti Yadav', 'Rating': '3', 'CommentHead': 'Nice', 'Comment': 'Its just Perfect . Prices are a bit high .'}, {'Product': 'iphone12pro', 'Name': 'Rajkumar tiwari', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'indeed a great phone feels premium in hand but battery life is low'}, {'Product': 'iphone12pro', 'Name': 'Tushar Saini', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'The camera is mind-blowing I love it 😘'}, {'Product': 'iphone12pro', 'Name': 'Aasheesh Vats', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'A masterpiece to cherish.'}, {'Product': 'iphone12pro', 'Name': 'Pankaj Mahor', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Best designed iPhone'}, {'Product': 'iphone12pro', 'Name': 'Pankaj Mahor', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Best designed iPhone'}]
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [08/Jul/2023 16:02:51] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [08/Jul/2023 16:23:08] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [08/Jul/2023 16:23:08] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone12pro', 'Name': 'Vinit Kar', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'I have been using iPhones for years, but the fast charging and battery on this one is brilliant. Like i always say, iPhone is more of a jewellery than a phone. But this one has some power-packed features and an awesome camera. So if you can afford it, buy it!'}, {'Product': 'iphone12pro', 'Name': 'Rahul  Meena', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I like the most in this phone:-1. I like the size of this phone because it is easy to hold.2. The camera quality of this phone is admirable. 3. Battery backup is good.4. The new design and colour  of this phone also a plus point of its beauty.5. These  points are my personal which i like most in this phone.'}, {'Product': 'iphone12pro', 'Name': 'Nami Hathishah', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'One of the best looking phone in the market right now with a decent performance jump from 11 pro. Camera is excellent and the display is quite responsive and sharp. Only issue is it does not have a higher refresh rate and the battery life is average.'}, {'Product': 'iphone12pro', 'Name': 'Rajesh Jena', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'I have upgraded from Android to iOS for the first time with the IPhone 12 Pro. And the experience is very much satisfactory. The new A14 bionic processor is very fast. The boxy design is what I liked the most. The camera and display are top notch. Night mode photography is excellent. Worth upgrading from Android to iOS .'}, {'Product': 'iphone12pro', 'Name': 'Lee Phela', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Awesome!Just made an upgrade from X, worth every single penny spent on it, the camera is just too superb, be it the selfie cam or the main rear cam, the goodness it takes the picture is just beyond words, no smart phone can beat it atm! However, the battery life tends to be on the shorter side, that’s the only con that I can’t think up of now,'}, {'Product': 'iphone12pro', 'Name': 'Sahil Sahil', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': ''}, {'Product': 'iphone12pro', 'Name': 'Kirti Yadav', 'Rating': '3', 'CommentHead': 'Nice', 'Comment': 'Its just Perfect . Prices are a bit high .'}, {'Product': 'iphone12pro', 'Name': 'Rajkumar tiwari', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'indeed a great phone feels premium in hand but battery life is low'}, {'Product': 'iphone12pro', 'Name': 'Tushar Saini', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'The camera is mind-blowing I love it 😘'}, {'Product': 'iphone12pro', 'Name': 'Aasheesh Vats', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'A masterpiece to cherish.'}, {'Product': 'iphone12pro', 'Name': 'Aasheesh Vats', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'A masterpiece to cherish.'}]
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [08/Jul/2023 16:24:50] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.10:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-981-695
+INFO:werkzeug:172.18.0.2 - - [31/Jul/2023 14:55:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [31/Jul/2023 14:55:12] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [31/Jul/2023 14:55:12] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [31/Jul/2023 14:55:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11', 'Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer 👌🏻It will be a real value for money if they provide charger and earphone inbox!'}, {'Product': 'iphone11', 'Name': 'Manish  Deshlahare', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very very good'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'This is amazing at all'}, {'Product': 'iphone11', 'Name': 'siva sankar', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Photos super'}, {'Product': 'iphone11', 'Name': 'Kuldeep Kumar', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'V Good all'}, {'Product': 'iphone11', 'Name': 'Vikram rapolu', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Perfect Product!!'}, {'Product': 'iphone11', 'Name': 'vikash  Yadav', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'It’s really awesome'}, {'Product': 'iphone11', 'Name': 'Steevan Rattra ', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good Camera'}, {'Product': 'iphone11', 'Name': 'Abhishek Sachdeva', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'Product': 'iphone11', 'Name': 'Dev', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Value for money 😍'}, {'Product': 'iphone11', 'Name': 'Dev', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Value for money 😍'}]
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [31/Jul/2023 14:55:17] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-981-695
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-981-695
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-981-695
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-981-695
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-981-695
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-981-695
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.10:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-981-695
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11', 'Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer 👌🏻It will be a real value for money if they provide charger and earphone inbox!'}, {'Product': 'iphone11', 'Name': 'Manish  Deshlahare', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very very good'}, {'Product': 'iphone11', 'Name': 'siva sankar', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Photos super'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'This is amazing at all'}, {'Product': 'iphone11', 'Name': 'Kuldeep Kumar', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'V Good all'}, {'Product': 'iphone11', 'Name': 'Vikram rapolu', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Perfect Product!!'}, {'Product': 'iphone11', 'Name': 'vikash  Yadav', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'It’s really awesome'}, {'Product': 'iphone11', 'Name': 'Steevan Rattra ', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good Camera'}, {'Product': 'iphone11', 'Name': 'Abhishek Sachdeva', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'Product': 'iphone11', 'Name': 'Shivendra Mani ', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Purple is best'}, {'Product': 'iphone11', 'Name': 'Shivendra Mani ', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Purple is best'}]
+INFO:werkzeug:172.18.0.2 - - [31/Jul/2023 15:01:00] "POST /review HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11', 'Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer 👌🏻It will be a real value for money if they provide charger and earphone inbox!'}, {'Product': 'iphone11', 'Name': 'Manish  Deshlahare', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very very good'}, {'Product': 'iphone11', 'Name': 'siva sankar', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Photos super'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'This is amazing at all'}, {'Product': 'iphone11', 'Name': 'Kuldeep Kumar', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'V Good all'}, {'Product': 'iphone11', 'Name': 'Vikram rapolu', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Perfect Product!!'}, {'Product': 'iphone11', 'Name': 'vikash  Yadav', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'It’s really awesome'}, {'Product': 'iphone11', 'Name': 'Steevan Rattra ', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good Camera'}, {'Product': 'iphone11', 'Name': 'Abhishek Sachdeva', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'Product': 'iphone11', 'Name': 'Shivendra Mani ', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Purple is best'}, {'Product': 'iphone11', 'Name': 'Shivendra Mani ', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Purple is best'}]
+INFO:werkzeug:172.18.0.2 - - [31/Jul/2023 15:01:04] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [31/Jul/2023 15:01:04] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [31/Jul/2023 15:01:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'mouse', 'Name': 'Devanand Marathe', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Very nice mouse and good quality 👍 i am happy 😊'}, {'Product': 'mouse', 'Name': 'Flipkart Customer', 'Rating': '1', 'CommentHead': 'Worthless', 'Comment': "Mouse point moving it's own, Not smooth. Buys after reading all the positive reviews but now realized that cannot trust reviews. No idea how this product having this much positive reviews?!"}, {'Product': 'mouse', 'Name': 'Babulu Mishra B m', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': 'It is good product for this price Normal used Like mobile laptop Or good feeling for editing because Iam a YouTuber'}, {'Product': 'mouse', 'Name': 'Sagar HS', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Nice to use good quality product👍'}, {'Product': 'mouse', 'Name': 'Shivshankar Gangotri', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Nice product 👍 Good customer service 👌'}, {'Product': 'mouse', 'Name': 'MUPPALLA  KARTHIK SHARMA', 'Rating': '4', 'CommentHead': 'Value-for-money', 'Comment': 'Very nice mouse this mouse also use gaming'}, {'Product': 'mouse', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Very good product'}, {'Product': 'mouse', 'Name': 'Flipkart Customer', 'Rating': '1', 'CommentHead': "Don't waste your money", 'Comment': "Totally not worth it. At the same price, we can get better in offline stores. It lags very much. Not smooth. Not for the regular user or who uses  mouse. It irritates me very much. Bad experience. Don't know how people rate this product. May be they only just suffer internet."}, {'Product': 'mouse', 'Name': 'Vijayakumar Y', 'Rating': '2', 'CommentHead': 'Not good', 'Comment': 'Cable length is too short for use with Desktop PC'}, {'Product': 'mouse', 'Name': 'Priyanshu Pandey', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'I was never expect this quality from Flipkart this is beyond my expectation thank you very much Flipkart really wonderful mouse for my PC'}, {'Product': 'mouse', 'Name': 'Priyanshu Pandey', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'I was never expect this quality from Flipkart this is beyond my expectation thank you very much Flipkart really wonderful mouse for my PC'}]
+INFO:werkzeug:172.18.0.2 - - [31/Jul/2023 15:02:27] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [31/Jul/2023 15:02:27] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [31/Jul/2023 15:02:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [31/Jul/2023 15:06:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [31/Jul/2023 15:06:27] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [31/Jul/2023 15:06:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone12pro', 'Name': 'Rajkumar tiwari', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'indeed a great phone feels premium in hand but battery life is low'}, {'Product': 'iphone12pro', 'Name': 'Kirti Yadav', 'Rating': '3', 'CommentHead': 'Nice', 'Comment': 'Its just Perfect . Prices are a bit high .'}, {'Product': 'iphone12pro', 'Name': 'Tushar Saini', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'The camera is mind-blowing I love it 😘'}, {'Product': 'iphone12pro', 'Name': 'Aasheesh Vats', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'A masterpiece to cherish.'}, {'Product': 'iphone12pro', 'Name': 'Pankaj Mahor', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Best designed iPhone'}, {'Product': 'iphone12pro', 'Name': 'Vinit Kar', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'I have been using iPhones for years, but the fast charging and battery on this one is brilliant. Like i always say, iPhone is more of a jewellery than a phone. But this one has some power-packed features and an awesome camera. So if you can afford it, buy it!'}, {'Product': 'iphone12pro', 'Name': 'Rahul  Meena', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I like the most in this phone:-1. I like the size of this phone because it is easy to hold.2. The camera quality of this phone is admirable. 3. Battery backup is good.4. The new design and colour  of this phone also a plus point of its beauty.5. These  points are my personal which i like most in this phone.'}, {'Product': 'iphone12pro', 'Name': 'Salman Rahman', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'This one of the best iPhone ever built, though battery backup isn’t good. But the user experience is brilliant.Upgraded from 11 Pro.'}, {'Product': 'iphone12pro', 'Name': 'Anveer arora', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'I purchased this phone 4 my wife.i give her surprised gift.she was so happy that her tears came when she saw this gift☺️.Some reviews after 4 days use1. Looks awesome 👌2. Camera quality superb❤️3. Battery avarage normal🤟4. According 2 price its below avarage 🤏5. Performance no 1👍'}, {'Product': 'iphone12pro', 'Name': 'Harsh Singh', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Premium quality iPhone💯'}, {'Product': 'iphone12pro', 'Name': 'Harsh Singh', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Premium quality iPhone💯'}]
+INFO:werkzeug:172.18.0.2 - - [31/Jul/2023 15:06:35] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [31/Jul/2023 15:06:35] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [31/Jul/2023 15:06:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
